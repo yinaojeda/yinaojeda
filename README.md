@@ -43,11 +43,7 @@ I'm a passionate Full-Stack Developer from Paraguay 🇵🇾 with 8+ years of ex
       alt="Top Languages"
     />
   </a>
-</div>  
-## 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/yinaojeda/yinaojeda/blob/output/github-contribution-grid-snake.svg)
-
+</div> 
 
 
 
