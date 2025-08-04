@@ -15,7 +15,7 @@ I'm a passionate Full-Stack Developer from Paraguay 🇵🇾 with 8+ years of ex
 
 **Languages:** PHP, PowerScript, SQL  
 **Frameworks:** Laravel, Livewire, PowerBuilder  
-**Tools:** Git, GitHub, PostgreSQL, DBeaver, VSCode  
+**Tools:** VSCode, GitHub, PostgreSQL, DBeaver
 **Currently exploring:** JavaScript, AI tools  
 
 ---
