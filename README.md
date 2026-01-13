@@ -2,9 +2,7 @@
 
 I'm a passionate Full-Stack Developer from Paraguay 🇵🇾 with 8+ years of experience building both web and desktop applications, mainly with PHP and the Laravel framework.
 
-🔭 Currently, I work at OfficeWorld - a Tecnology Company in Loma Plata - Paraguayan Chaco  
-💻 Strong advocate for education and digital literacy  
-🧑‍🏫 Volunteered as a university teaching assistant    
+🔭 Currently, I work at Cooperativa Chortitzer Ltda. in Loma Plata - Paraguayan Chaco  
 🎓 Degree in Computer Engineering  
 🧠 Lifelong learner passionate about clean code, useful tech, and making education more accessible through software  
 
@@ -13,9 +11,9 @@ I'm a passionate Full-Stack Developer from Paraguay 🇵🇾 with 8+ years of ex
 
 ## 🚀 Tech Stack
 
-**Languages:** PHP, PowerScript, SQL  
-**Frameworks:** Laravel, Livewire, PowerBuilder  
-**Tools:** VSCode, GitHub, PostgreSQL, DBeaver
+**Languages:** Java, PHP, PowerScript, SQL  
+**Frameworks:** Spring Boot, Laravel, Livewire, PowerBuilder  
+**Tools:** IntelliJ, VSCode, GitHub, PostgreSQL, DBeaver
 **Currently exploring:** JavaScript, AI tools  
 
 ---
